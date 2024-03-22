@@ -14,4 +14,4 @@ https://github.com/vuhuynh2002/20dthc2/issues/1#issue-2194172971
 * Khóa:2020 - 2024
 ## Giao diện của chương trình
 
-![Giao diện 1](https://github.com/vuhuynh2002/BaiTapNhom/commit/b0914bac499fb672e81271dccbf7db02ea058aaf)
+![Giao diện 1](Screenshot 2024-03-20 122515.png)
