@@ -15,3 +15,7 @@ https://github.com/vuhuynh2002/20dthc2/issues/1#issue-2194172971
 ## Giao diện của chương trình
 
 ![Giao diện 1](https://github.com/vuhuynh2002/BaiTapNhom/blob/master/Screenshot%202024-03-20%20122515.png)
+![Giao diện 1](https://github.com/vuhuynh2002/BaiTapNhom/blob/master/Screenshot%202024-03-20%20122613.png)
+![Giao diện 1](https://github.com/vuhuynh2002/BaiTapNhom/blob/master/Screenshot%202024-03-20%20122633.png)
+![Giao diện 1](https://github.com/vuhuynh2002/BaiTapNhom/blob/master/Screenshot%202024-03-20%20122652.png)
+![Giao diện 1](https://github.com/vuhuynh2002/BaiTapNhom/blob/master/Screenshot%202024-03-20%20122718.png)
